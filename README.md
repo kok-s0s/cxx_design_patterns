@@ -5,3 +5,5 @@
 ## LISTS
 
 - [Singleton](/Singleton)
+
+- [Factory Method](/Factory_Method)
