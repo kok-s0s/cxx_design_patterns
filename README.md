@@ -4,4 +4,4 @@
 
 ## LISTS
 
-- [Singleton](/Singleton/README.md)
+- [Singleton](/Singleton)
