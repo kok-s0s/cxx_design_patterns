@@ -2,8 +2,14 @@
 
 [design-patterns](https://refactoring.guru/design-patterns/)
 
-## LISTS
+## Catalog
+
+### Creational patterns
 
 - [Singleton](/Singleton)
 
 - [Factory Method](/Factory_Method)
+
+### Behavioral patterns
+
+- [Observer](/Observer)
