@@ -10,6 +10,8 @@
 
 - [Factory Method](/Factory_Method)
 
+- [Prototype](/Prototype)
+
 ### Behavioral patterns
 
 - [Observer](/Observer)
