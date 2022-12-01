@@ -15,3 +15,5 @@
 ### Behavioral patterns
 
 - [Observer](/Observer)
+
+- [Iterator](/Iterator/)
