@@ -12,6 +12,10 @@
 
 - [Prototype](/Prototype)
 
+### Structural Patterns
+
+- [Adapter](/Adapter/)
+
 ### Behavioral patterns
 
 - [Observer](/Observer)
