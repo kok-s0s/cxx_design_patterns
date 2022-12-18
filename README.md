@@ -18,6 +18,8 @@
 
 ### Behavioral patterns
 
+- [Command](/Command)
+
 - [Observer](/Observer)
 
 - [Iterator](/Iterator/)
