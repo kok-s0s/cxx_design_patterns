@@ -23,3 +23,5 @@
 - [Observer](/Observer)
 
 - [Iterator](/Iterator/)
+
+- [Template Method](/Template_Method/)
